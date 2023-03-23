@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anisha Singh</h1>
 <h3 align="center">A passionate open-source contributor from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 📫 How to reach me **anisha.singh0118@gmail.com**
 
