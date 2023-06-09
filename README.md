@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"> I'm Anisha Singh</h1>
+<h1 align="center">Hi <img src="https://gifdb.com/images/high/waving-hand-emoticon-bye-iv3dmo7t5vdlvr8m.gif" width="40px" height="40px" style="max-width: 10%;"> I'm Anisha Singh</h1>
 <h2>About Me:</h2>
 <h3 align="left">A passionate open-source contributor from New Delhi, India</h3>
 
