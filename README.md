@@ -9,8 +9,8 @@
 - BCA graduate From GGSIPU University.
 - I am currenlty working on Project: **"Create a platform to link-up medical facilities globally"** under the guidance of under the guidance of Agien Petra Ukeh and jafsia elisee.
 - This Project Involves Flutter,UI/UX Design & Research. Although Flutter is quite new for me, I am thoroughly enjoying the learning experience.
-
-<h3 align="left">Connect with me:</h3>
+<br>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/anisha-singh-1b09a7202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anisha-singh" height="30" width="40" /></a>
 <a href="https://twitter.com/anisha_singh257" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" alt="anisha-singh" height="30" width="40" /></a>  
